@@ -19,6 +19,7 @@ public class MathFunct {
 		endTime = System.currentTimeMillis();
 		Time = (endTime - startTime)/1000;
 		System.out.println("El tiempo de operacion fue = " + Time);
+		System.out.println("Cambio");
 		
 		
 				
